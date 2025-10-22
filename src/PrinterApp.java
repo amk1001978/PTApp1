@@ -25,6 +25,8 @@ public class PrinterApp {
         subtraction = number1 - number2;
         division = (double) number1 / number2;
 
+        // Printing results
+
         System.out.println(number1 + " * " + number2 + " = " + multiplication);
         System.out.println(number1 + " + " + number2 + " = " + addition);
         System.out.println(number1 + " - " + number2 + " = " + subtraction);

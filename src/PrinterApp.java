@@ -10,6 +10,8 @@ public class PrinterApp {
         int subtraction;
         double division;
 
+        // Printing basic info
+
         System.out.println("Printer App");
         System.out.print("This app is made by: ");
         System.out.println(creator);

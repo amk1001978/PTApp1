@@ -1,5 +1,6 @@
 public class PrinterApp {
     public static void main(String[] args) {
+        // Variable declarations
        
         String creator = "MD Sabir Hossin";
         int number1 = 5;
